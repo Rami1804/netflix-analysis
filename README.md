@@ -21,7 +21,7 @@ This project explores the Netflix Movies and TV Shows dataset using basic data a
 
 ---
 
-## 📊 Key Analyses
+##  Key Analyses
 
 - Count of Movies vs. TV Shows
 - Top 10 countries producing Netflix content
@@ -30,7 +30,7 @@ This project explores the Netflix Movies and TV Shows dataset using basic data a
 
 ---
 
-## 💻 How to Run the Notebook
+##  How to Run the Notebook
 
 1. Clone this repository:
    ```bash
