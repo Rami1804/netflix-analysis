@@ -1,6 +1,6 @@
-# 🎬 Netflix Data Analysis (Beginner Project)
+# 🎬 Netflix Data Analysis 
 
-This project explores the Netflix Movies and TV Shows dataset using basic data analysis and visualization tools in Python. It's a great starting point to showcase beginner-level data analysis skills.
+This project explores the Netflix Movies and TV Shows dataset using basic data analysis and visualization tools in Python.
 
 ---
 
@@ -34,5 +34,5 @@ This project explores the Netflix Movies and TV Shows dataset using basic data a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/netflix-analysis.git
+   git clone https://github.com/rami1804/netflix-analysis.git
    cd netflix-analysis
